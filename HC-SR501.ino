@@ -20,8 +20,8 @@ void setup() {
 
 void loop() {
   pirValue = digitalRead(pirPin);
-  if(pirValue = HIGH)
-  ?
+  //if(pirValue = HIGH)
+  
   digitalWrite(ledPin, pirValue);
 
 }
